@@ -2,7 +2,7 @@
 
 This course focuses on expanding the knowledge and practical skills in the area of front-end testing.
 
-The course covers:
+It covers:
 
 - Understanding the fundamentals of HTML and CSS
 
